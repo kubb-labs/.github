@@ -2,29 +2,16 @@
 
   <img src="https://raw.githubusercontent.com/kubb-project/kubb/main/assets/banner.png" alt="logo"  height="auto" />
 
-  <!-- Badges -->
-  <p>
-  <a href="https://www.npmjs.com/package/@kubb/core" target="_blank">
-    <img alt="npm version" src="https://img.shields.io/npm/v/@kubb/core?style=for-the-badge"/>
-  </a>
 
-  <a href="https://www.npmjs.com/package/@kubb/core" target="_blank">
-    <img alt="npm downloads" src="https://img.shields.io/npm/dm/@kubb/core?style=for-the-badge"/>
-  </a>
-  </p>
-    
-  <p> 
-  <a href="https://www.npmjs.com/package/@kubb/core" target="_blank">
-    <img alt="Minified size" src="https://img.shields.io/bundlephobia/min/@kubb/core?style=for-the-badge"/>
-  </a>
-    
-  <a href="https://www.npmjs.com/package/@kubb/core" target="_blank">
-    <img alt="Coverage" src="https://img.shields.io/codecov/c/github/kubb-project/kubb?style=for-the-badge"/>
-  </a>
-    
-  <a href="https://www.npmjs.com/package/@kubb/core" target="_blank">
-    <img alt="Build status" src="https://img.shields.io/github/actions/workflow/status/kubb-project/kubb/ci.yaml?style=for-the-badge"/>
-  </a>
+  [![npm version][npm-version-src]][npm-version-href]
+  [![npm downloads][npm-downloads-src]][npm-downloads-href]
+  [![Minified][minified-src]][minified-href]
+  [![Coverage][coverage-src]][coverage-href]
+  [![Build][build-src]][build-href]
+  [![License][license-src]][license-href]
+
+  <!-- Badges -->
+
   
   
   <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
@@ -76,3 +63,17 @@
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+<!-- Badges -->
+
+[npm-version-src]: https://img.shields.io/npm/v/@kubb/core?flat&colorA=18181B&colorB=f58517
+[npm-version-href]: https://npmjs.com/package/@kubb/core
+[npm-downloads-src]: https://img.shields.io/npm/dm/@kubb/core?flat&colorA=18181B&colorB=f58517
+[npm-downloads-href]: https://npmjs.com/package/@kubb/core
+[license-src]: https://img.shields.io/github/license/kubb-project/kubb.svg?flat&colorA=18181B&colorB=f58517
+[license-href]: https://github.com/kubb-project/kubb/blob/main/LICENSE
+[build-src]: https://img.shields.io/github/actions/workflow/status/kubb-project/kubb/ci.yaml?style=flat&colorA=18181B&colorB=f58517
+[build-href]: https://www.npmjs.com/package/@kubb/core
+[minified-src]: https://img.shields.io/bundlephobia/min/@kubb/core?style=flat&colorA=18181B&colorB=f58517
+[minified-href]: https://www.npmjs.com/package/@kubb/core
+[coverage-src]: https://img.shields.io/codecov/c/github/kubb-project/kubb?style=flat&colorA=18181B&colorB=f58517
+[coverage-href]: https://www.npmjs.com/package/@kubb/core
