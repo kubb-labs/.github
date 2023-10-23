@@ -1,18 +1,16 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/kubb-project/kubb/main/assets/banner.png" alt="logo"  height="auto" />  
+<img src="https://raw.githubusercontent.com/kubb-project/kubb/main/assets/banner.png" alt="logo"  height="auto" />
 
-  [![npm version][npm-version-src]][npm-version-href]
-  [![npm downloads][npm-downloads-src]][npm-downloads-href]
-  [![Coverage][coverage-src]][coverage-href]
-  [![License][license-src]][license-href]
-  
-  <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-  </p>
-   
-  <h4>
+[![npm version][npm-version-src]][npm-version-href]
+[![npm downloads][npm-downloads-src]][npm-downloads-href]
+[![Coverage][coverage-src]][coverage-href]
+[![License][license-src]][license-href]
+[![Sponsors][sponsors-src]][sponsors-href]
+
+</p>
+
+<h4>
     <a href="https://codesandbox.io/s/github/kubb-project/kubb/tree/main/examples/typescript" target="_blank">View Demo</a>
     <span> · </span>
       <a href="https://kubb.dev/" target="_blank">Documentation</a>
@@ -27,11 +25,11 @@
 
 ## Features
 
-<div align="center"> 
+<div align="center">
   <img src="https://raw.githubusercontent.com/kubb-project/kubb/main/assets/features.png" alt="features"  height="auto" />
 </div>
 
-## Contributors
+## Contributors [![Contributors][contributors-src]][contributors-href]
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -84,3 +82,7 @@
 [minified-href]: https://www.npmjs.com/package/@kubb/core
 [coverage-src]: https://img.shields.io/codecov/c/github/kubb-project/kubb?style=flat&colorA=18181B&colorB=f58517
 [coverage-href]: https://www.npmjs.com/package/@kubb/core
+[contributors-src]: https://img.shields.io/github/contributors/stijnvanhulle/kubb?style=flat&colorA=18181B&colorB=f58517&label=%20
+[contributors-href]: #contributors-
+[sponsors-src]: https://img.shields.io/github/sponsors/stijnvanhulle?style=flat&colorA=18181B&colorB=f58517
+[sponsors-href]: https://github.com/sponsors/stijnvanhulle/
