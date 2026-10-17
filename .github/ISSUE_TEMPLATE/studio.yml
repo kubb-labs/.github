@@ -1,0 +1,34 @@
+name: Kubb Studio Crash
+description: Report a crash or error page in Kubb Studio
+labels: [studio]
+type: Bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting a Kubb Studio crash. It helps make `Kubb` better.
+        The **Report issue** button on the Studio error page fills in the fields below. Remove anything private before you submit.
+  - type: input
+    id: version
+    attributes:
+      label: Studio version
+  - type: input
+    id: status
+    attributes:
+      label: Status code
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: The Studio page that crashed, such as `/agents/:slug/editor`
+  - type: textarea
+    id: error
+    attributes:
+      label: Error detail
+      render: text
+  - type: textarea
+    id: steps
+    attributes:
+      label: What were you doing when Studio crashed?
+    validations:
+      required: true
